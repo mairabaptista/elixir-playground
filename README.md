@@ -1,2 +1,2 @@
-# elixir-playground
-:pencil2: Learning Rust through the Rustlang book @ https://doc.rust-lang.org/stable/book/
+# Elixir Playground
+:pencil2: Learning Elixir through the Elixir School website @ `[https://elixirschool.com/en/lessons/basics/basics]`.
